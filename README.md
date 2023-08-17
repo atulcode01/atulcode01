@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++, Cybersecurity**
 
-- 💬 Ask me about **I'm a BCA 1st year student with a strong passion for software development and a creative flair for graphic designing. My journey in the world of technology began with exploring the intricacies of C programming, and I'm constantly eager to expand my programming knowledge and skills.**
+- 💬 Ask me about **C and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
